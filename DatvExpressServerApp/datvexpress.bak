@@ -1,0 +1,12 @@
+# Automatically updated
+set srate 4000000
+set freq 1249000000
+set level 40
+set ip_port 1234
+set ip_remote 0.0.0.0
+set ip_local 192.168.1.103
+set ip_multicast set
+set ioff 0
+set qoff 0
+set tox 0
+set fec 1/2
